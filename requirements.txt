@@ -1,8 +1,4 @@
 streamlit
-streamlit_chat
-langchain
-sentence_transformers
-pinecone-client
-openai
-beautifulsoup4
-google-search-results
+matplotlib
+scipy
+pandas
